@@ -1,4 +1,4 @@
-# Cleand Code on JS
+# Clean Code on JS
 
 ```
 npm install
